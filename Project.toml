@@ -1,0 +1,10 @@
+name = "DAQuery"
+uuid = "57e30fce-d988-403c-ab05-78028c955338"
+authors = ["wikphi "]
+version = "0.1.0"
+
+[deps]
+MsgPack = "99f44e22-a591-53d1-9472-aa23ef4bd671"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
